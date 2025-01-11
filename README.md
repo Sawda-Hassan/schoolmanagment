@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # School Management System PHP & MYSQL
 
 version: 1.0.0
@@ -18,3 +19,6 @@ version: 1.0.0
 ## Authors
 
 [Elias Abdurrahman](https://github.com/codingWithElias)
+=======
+# schoolmanagment
+>>>>>>> 76904d56c56aa669e9e020da4cc04f94ce592668
