@@ -3,7 +3,7 @@
 
 version: 1.0.0
 
-## TECHNOLOGIES
+## TECHNOLOGIESj
 
 1. PHP
 1. MYSQL
@@ -12,13 +12,9 @@ version: 1.0.0
 1. CSS
 1. JS
 
-## Full Tutorial
 
-[On Youtube](https://youtube.com/playlist?list=PL2WFgdVk-usEEEPk5dfgg_fvUeGDM8NWf)
 
-## Authors
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+
 =======
 # schoolmanagment
->>>>>>> 76904d56c56aa669e9e020da4cc04f94ce592668
