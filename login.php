@@ -52,6 +52,7 @@
 
 		  <button type="submit" class="btn btn-primary">Login</button>
 		  <a href="index.php" class="text-decoration-none">Home</a>
+		  <input type="checkbox" name="remember_me"> Remember Me
 		</form>
         
         <br /><br />

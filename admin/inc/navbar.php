@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg" style="background-color: #162381;">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.php">
-      <img src="./logo1.png" width="20" alt="Logo">
+      <img src="../logo1.png" width="55" alt="Logo">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -16,9 +16,6 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="student.php" style="color:white;">Students</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="grade.php" style="color: white">Grade</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="class.php" style="color: white">Class</a>
